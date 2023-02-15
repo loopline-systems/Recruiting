@@ -1,4 +1,4 @@
-# We are looking for a passionated Frontend Engineer
+# We are looking for a passionate Frontend Engineer
 
 In this position, you're responsible for developing the frontend for new features and improvements of our core application LoopNow in Typescript and React. With LoopNow, a SaaS application for employee feedback, we strive to improve the culture of customer organizations of all sizes.
 
